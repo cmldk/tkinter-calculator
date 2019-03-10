@@ -1,1 +1,1 @@
-# Tkinter-calculator
+# Simple-Tkinter-calculator
